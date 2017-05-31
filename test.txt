@@ -2,5 +2,8 @@ Test file, required for lab
 Updated with Git-Bash
 more tests
 Updated with Tortoise-Git
+test 3
+testing continuing
 Tortoise....
+test 2
 Dots here....
