@@ -1,5 +1,3 @@
-
-
 # Test-repo
-//Repo for tests concerning github functionality 2
+//Repo for tests concerning github functionality and excercises
 
